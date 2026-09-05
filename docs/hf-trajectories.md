@@ -17,6 +17,8 @@ Run CLI commands with `npm run hf -- <command>`, for example:
 npm run hf -- auth whoami
 ```
 
+Trace viewer: <https://huggingface.co/datasets/amsminn/smash-karts-multiplayer-trajectory/blob/main/traces/rollout-2026-09-05T17-40-19-01a070b9-c9b8-7d00-8cbf-8fd0416df521.jsonl>
+
 Dataset: <https://huggingface.co/datasets/amsminn/smash-karts-multiplayer-trajectory>
 
 The uploaded session is “Smash Karts 멀티플레이 구현해줘”, with session ID
