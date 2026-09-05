@@ -5,11 +5,11 @@
 One prompt. About 42 minutes. An arena for up to 8 players, 11 weapons, bot battles,
 and a public record of the build.
 
-[Watch gameplay](docs/media/gameplay.mp4) ·
+[Watch gameplay on YouTube](https://youtu.be/3laRe_z_gbI) ·
 [Explore the agent trajectory](https://huggingface.co/datasets/amsminn/smash-karts-multiplayer-trajectory/blob/main/traces/rollout-2026-09-05T17-40-19-01a070b9-c9b8-7d00-8cbf-8fd0416df521.jsonl) ·
 [Run locally](#run-it) · [한국어 실행 가이드](docs/running.md)
 
-[![Smash Karts Arena — 6-second GIF preview; click for the 20-second MP4](docs/media/gameplay.gif)](docs/media/gameplay.mp4)
+[![Smash Karts Arena — 6-second GIF preview; click to watch gameplay on YouTube](docs/media/gameplay.gif)](https://youtu.be/3laRe_z_gbI)
 
 ## The experiment
 
