@@ -1,0 +1,14 @@
+{
+  "name": "gpt-6-astra-smash-karts",
+  "private": true,
+  "scripts": {
+    "hf": ".venv-hf/bin/hf",
+    "setup": "npm --prefix game ci",
+    "dev": "npm --prefix game run dev",
+    "build": "npm --prefix game run build:standalone",
+    "start": "npm --prefix game start",
+    "test": "npm --prefix game test",
+    "typecheck": "npm --prefix game run typecheck",
+    "lint": "npm --prefix game run lint"
+  }
+}
